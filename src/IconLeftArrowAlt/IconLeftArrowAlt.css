@@ -1,0 +1,11 @@
+.icon-left-arrow-alt,
+.icon-left-arrow-alt * {
+  box-sizing: border-box;
+}
+.icon-left-arrow-alt {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

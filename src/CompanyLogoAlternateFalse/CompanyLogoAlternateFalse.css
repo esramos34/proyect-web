@@ -1,0 +1,19 @@
+.company-logo-alternate-false,
+.company-logo-alternate-false * {
+  box-sizing: border-box;
+}
+.company-logo-alternate-false {
+  width: 84px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+}
+.company-logo-alternate-false .logo-wide-1 {
+  width: 70px;
+  height: 36px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  overflow: visible;
+}

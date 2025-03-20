@@ -1,0 +1,11 @@
+.icon-relume,
+.icon-relume * {
+  box-sizing: border-box;
+}
+.icon-relume {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

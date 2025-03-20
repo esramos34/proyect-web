@@ -1,0 +1,11 @@
+.placeholder-logo-logo-2-alternate-false,
+.placeholder-logo-logo-2-alternate-false * {
+  box-sizing: border-box;
+}
+.placeholder-logo-logo-2-alternate-false {
+  flex-shrink: 0;
+  width: 120px;
+  height: 48px;
+  position: relative;
+  overflow: visible;
+}

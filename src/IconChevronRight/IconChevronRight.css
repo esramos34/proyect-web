@@ -1,0 +1,11 @@
+.icon-chevron-right,
+.icon-chevron-right * {
+  box-sizing: border-box;
+}
+.icon-chevron-right {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

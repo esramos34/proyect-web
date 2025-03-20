@@ -1,0 +1,32 @@
+.button-style-primary-small-true-alternate-false-icon-position-no-icon,
+.button-style-primary-small-true-alternate-false-icon-position-no-icon * {
+  box-sizing: border-box;
+}
+.button-style-primary-small-true-alternate-false-icon-position-no-icon {
+  background: var(--color-neutral-darkest, #000000);
+  border-style: solid;
+  border-color: var(--color-neutral-darkest, #000000);
+  border-width: 1px;
+  padding: 8px 20px 8px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.button-style-primary-small-true-alternate-false-icon-position-no-icon .button {
+  color: var(--color-white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --text-regular-normal-font-family,
+    "Roboto-Regular",
+    sans-serif
+  );
+  font-size: var(--text-regular-normal-font-size, 16px);
+  line-height: var(--text-regular-normal-line-height, 150%);
+  font-weight: var(--text-regular-normal-font-weight, 400);
+  position: relative;
+}
+
+/* nested override styles */
